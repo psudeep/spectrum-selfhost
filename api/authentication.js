@@ -32,11 +32,11 @@ const FACEBOOK_OAUTH_CLIENT_SECRET = IS_PROD
 
 const GOOGLE_OAUTH_CLIENT_ID = IS_PROD
   ? process.env.GOOGLE_OAUTH_CLIENT_ID
-  : '39714728723-rk5q457ro1h057pf1f0loenp8nv6c50h.apps.googleusercontent.com';
+  : '39714728723-sle3o0bnbjbs9m2ci296l2knuchml6jj.apps.googleusercontent.com';
 
 const GOOGLE_OAUTH_CLIENT_SECRET = IS_PROD
   ? process.env.GOOGLE_OAUTH_CLIENT_SECRET
-  : '95_e0t0a_m0qgV-e85h2Uq7X';
+  : 'ZrsOKB37VhpUu1IeI1fx1yP2';
 
 const GITHUB_OAUTH_CLIENT_ID = IS_PROD
   ? process.env.GITHUB_OAUTH_CLIENT_ID
