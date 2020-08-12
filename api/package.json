@@ -120,7 +120,7 @@
     "rethinkdb-migrate": "^1.4.0",
     "rethinkhaberdashery": "^2.3.32",
     "sanitize-filename": "^1.6.1",
-    "serialize-javascript": "^1.6.1",
+    "serialize-javascript": "^3.1.0",
     "session-rethinkdb": "^2.0.0",
     "slate": "^0.44.10",
     "slate-markdown": "0.1.0",
