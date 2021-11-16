@@ -65,7 +65,7 @@
     "apollo-upload-client": "^9.1.0",
     "apollo-upload-server": "^7.1.0",
     "apollo-utilities": "^1.0.26",
-    "aws-sdk": "2.336.0",
+    "aws-sdk": "2.814.0",
     "axios": "^0.17.1",
     "b2a": "^1.0.10",
     "bad-words": "^1.6.4",
