@@ -83,7 +83,7 @@
     "dataloader": "^1.4.0",
     "debounce": "^1.2.0",
     "debug": "^4.1.0",
-    "decode-uri-component": "^0.2.0",
+    "decode-uri-component": "^0.2.1",
     "draft-js": "npm:draft-js-fork-mxstbr",
     "draft-js-code-editor-plugin": "0.2.1",
     "draft-js-drag-n-drop-plugin": "^2.0.3",
